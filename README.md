@@ -14,6 +14,21 @@
    	</a>
 </p>
 
+
+<p align="center">
+	<table>
+		<tr>
+		<td align="center">
+		    <picture>
+		    <source media="(prefers-color-scheme: dark)"  srcset="https://cdn.jsdelivr.net/gh/Jeremyl95/Jeremyl95/profile-3d-contrib/profile-night-green.svg?clear=1" />
+		    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Jeremyl95/Jeremyl95/profile-3d-contrib/profile-green-animate.svg?clear=1" />
+		    <img alt="github profile contributions chart" src="https://cdn.jsdelivr.net/gh/Jeremyl95/Jeremyl95/profile-3d-contrib/profile-green-animate.svg?clear=1" width="80%" />
+		    </picture>
+		</td>
+		</tr>
+	</table>
+</p>
+
 <div align="center">
   <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://komarev.com/ghpvc/?username=jeremyl95&label=Views&color=0e75b6&style=flat" alt="visitor statistics" />
