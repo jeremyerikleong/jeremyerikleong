@@ -1,3 +1,4 @@
+<!--
 <div style="display: flex; justify-content: center;">
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Face%20with%20Tongue.png" width="10%" />
@@ -7,6 +8,7 @@
   <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="10%" />
 </p>	
 </div>
+-->
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -14,7 +16,12 @@
    	</a>
 </p>
 
+<div align="center">
+  <!-- most used languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyl95&layout=compact" alt="most used languages" />
+</div>
 
+<!--
 <p align="center">
 	<table>
 		<tr>
@@ -28,6 +35,7 @@
 		</tr>
 	</table>
 </p>
+-->
 
 <div align="center">
   <!-- visitor statistics logo 访客数统计徽标 -->
