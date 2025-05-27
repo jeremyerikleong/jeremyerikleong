@@ -21,6 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyl95&layout=compact" alt="most used languages" />
 </div>
 
+<!--
 <p align="center">
 	<table>
 		<tr>
@@ -34,6 +35,7 @@
 		</tr>
 	</table>
 </p>
+-->
 
 <div align="center">
   <!-- visitor statistics logo 访客数统计徽标 -->
