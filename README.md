@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center;">
+<!--<div style="display: flex; justify-content: center;">
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Face%20with%20Tongue.png" width="10%" />
   <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" />
@@ -13,6 +13,7 @@
       	<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=jeremyerikleong&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="1000" alt="throphy" />
    	</a>
 </p>
+-->
 
 <div align="center">
   <!-- most used languages -->
